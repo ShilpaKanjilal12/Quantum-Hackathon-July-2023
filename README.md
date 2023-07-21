@@ -1,6 +1,6 @@
 # Quantum-Hackathon-July-2023
 
-## Quantum Key Distribution
+## Quantum Key Distribution using DM Simulator
 
 ### Introduction
 
